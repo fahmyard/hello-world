@@ -1,2 +1,2 @@
 # hello-world
-the ritual
+the sacred ritual
